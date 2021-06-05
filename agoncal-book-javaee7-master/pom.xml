@@ -26,7 +26,7 @@
   </modules>
 
   <properties>
-    <version.java>1.7</version.java>
+    <version.java>1.8</version.java>
     <!-- Java EE -->
     <version.glassfish>4.0-b87</version.glassfish>
     <version.javaee>7.0-b79</version.javaee>
